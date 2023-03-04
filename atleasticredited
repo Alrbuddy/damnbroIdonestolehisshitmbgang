@@ -1,3 +1,5 @@
+--if your the owner of the original script contact me at ! HEATX#8225 I tried to get in contact with you to see if I can add a few stuff to it, but couldn't find you so yeah.
+
 pcall(function()
     for i,v in ipairs(game.CoreGui:GetChildren()) do 
         if v.Name == "     " then 
